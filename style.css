@@ -1,0 +1,20 @@
+body {
+  margin: 0;
+  text-align: center;
+  background:linear-gradient( #B790D4.50%, #97E7E1 50%);
+}
+.heading
+{
+  width: 80%;
+  font-size: 22px;
+}
+#camera 
+{
+  border: 2px dashed black;
+  width: 350px;
+  height: 300px; 
+}
+.name_of_people, #result_person_name  , #result_person_accuracy
+{
+  color: yellow;
+}
